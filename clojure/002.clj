@@ -47,4 +47,4 @@
 (run-tests)
 
 ; Find the answer!
-(println (sum-even-fibs 4000000))
+(println (time (sum-even-fibs 4000000)))

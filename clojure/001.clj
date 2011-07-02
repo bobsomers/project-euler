@@ -37,4 +37,4 @@
 (run-tests)
 
 ; Find the answer!
-(println (sum-of-mults 999))
+(println (time (sum-of-mults 999)))
